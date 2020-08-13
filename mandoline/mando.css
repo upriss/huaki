@@ -1,0 +1,25 @@
+
+a{text-decoration:underline}
+a.blank{text-decoration:none; color:RoyalBlue ; font-size:120%}
+a.blanknormal{text-decoration:none; color:RoyalBlue ; }
+h3 {color:black}
+h3.title {color:midnightblue; text-align: center; margin-top: 0.3in; margin-bottom: 0.3in;
+font-size:200%}
+
+hr { margin: 20px 0px -30px 0px; 
+border: 20px DarkGoldenRod dotted;       /* slice: top right bottom left */
+  border-image: url("dots.svg") 25 7.5 0 7.5 repeat;
+} 
+
+/* hr { border: 25px;
+  border-image: url("note.svg") 150 25 0 0 repeat;
+} */
+
+
+div.blockitem {color:midnightblue; font-weight:bold; margin-top: 0.2in}
+body {background-color: #FBFFFF;}
+div.maintxt {border-left: 20px double PaleTurquoise ; margin-left: 50px; padding: 25px; 
+            border-right: 20px double PaleTurquoise ; margin-right: 50px; padding: 25px;
+            border-radius: 50px;}
+
+P {text-align: justify; margin-top: 0.1in;margin-bottom: 0.1in; font-size:120% }

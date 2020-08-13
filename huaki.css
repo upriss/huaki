@@ -1,0 +1,8 @@
+a{text-decoration:underline}
+a.blank{text-decoration:none; color:blue}
+h3 {color:#003300}
+h3.title {color:#003300; text-align: center; margin-top: 0.3in; margin-bottom: 0.3in}
+h4.red {color:#003300}
+hr {color:#002600; background-color:#002600; height: 3px;}
+div.blockitem {color:#003300; font-weight:bold; margin-top: 0.2in}
+body {background-color: #FFFFFF;}
